@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">minimal_contacts</string>
+    <string name="field_name">Name</string>
+    <string name="field_phone">Phone</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_remove">Remove</string>
+</resources>
